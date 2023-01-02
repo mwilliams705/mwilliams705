@@ -1,8 +1,8 @@
-Hi 👋 My name is Michael Williams
+Hi! My name is Michael Williams
 =================================
 
-Java Developer
---------------
+Software Engineer
+-----------------
 
 * 🌍  I'm based in Greenville, SC
 * ✉️  You can contact me at [michael.williams705@live.com](mailto:michael.williams705@live.com)
